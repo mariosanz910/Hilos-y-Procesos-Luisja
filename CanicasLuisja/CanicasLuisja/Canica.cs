@@ -1,4 +1,4 @@
-﻿// Canica.cs
+// Canica.cs
 using System;
 using System.Diagnostics;
 using System.Threading;
