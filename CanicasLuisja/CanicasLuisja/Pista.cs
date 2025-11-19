@@ -1,4 +1,4 @@
-﻿// Pista.cs
+// Pista.cs
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
