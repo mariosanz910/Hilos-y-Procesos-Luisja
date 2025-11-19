@@ -1,4 +1,4 @@
-﻿// Padre.cs
+// Padre.cs
 using System;
 using System.Collections.Generic;
 
