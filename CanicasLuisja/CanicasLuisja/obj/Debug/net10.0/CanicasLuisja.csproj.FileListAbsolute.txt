@@ -1,0 +1,14 @@
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\obj\Debug\net10.0\CanicasLuisja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\obj\Debug\net10.0\CanicasLuisja.AssemblyInfoInputs.cache
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\obj\Debug\net10.0\CanicasLuisja.AssemblyInfo.cs
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\obj\Debug\net10.0\CanicasLuisja.csproj.CoreCompileInputs.cache
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\bin\Debug\net10.0\CanicasLuisja.exe
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\bin\Debug\net10.0\CanicasLuisja.deps.json
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\bin\Debug\net10.0\CanicasLuisja.runtimeconfig.json
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\bin\Debug\net10.0\CanicasLuisja.dll
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\bin\Debug\net10.0\CanicasLuisja.pdb
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\obj\Debug\net10.0\CanicasLuisja.dll
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\obj\Debug\net10.0\refint\CanicasLuisja.dll
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\obj\Debug\net10.0\CanicasLuisja.pdb
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\obj\Debug\net10.0\CanicasLuisja.genruntimeconfig.cache
+C:\Users\Kylet\source\repos\CanicasLuisja\CanicasLuisja\obj\Debug\net10.0\ref\CanicasLuisja.dll
